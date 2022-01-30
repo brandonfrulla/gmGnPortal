@@ -1,0 +1,18 @@
+{
+  "files": {
+    "src/utils/WavePortal.json": [
+      {
+        "id": "cdbc16fe-9d41-48b2-99bc-b31041e07731",
+        "line": 1,
+        "version": 5,
+        "index": 0
+      },
+      {
+        "id": "c6bf8e44-437d-48c7-8368-0b618b607427",
+        "line": 1,
+        "version": 5,
+        "index": 0
+      }
+    ]
+  }
+}
